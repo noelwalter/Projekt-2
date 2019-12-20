@@ -1,0 +1,8 @@
+.gallerytitel {
+  color: #003266;
+  size: 1.5 em;
+}
+
+#hide, #show {
+  border-radius: 10px;
+}
